@@ -1,0 +1,226 @@
+[
+  {
+    "category": "Universal",
+    "name": "Emergency Response (ERSS)",
+    "phone": "112",
+    "city": "All",
+    "description": "Single number for Police, Fire, and Ambulance",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Police Control Room",
+    "phone": "100",
+    "city": "All",
+    "description": "Immediate police assistance",
+    "is_verified": true
+  },
+  {
+    "category": "Fire",
+    "name": "Fire & Rescue Services",
+    "phone": "101",
+    "city": "All",
+    "description": "Fire emergencies and rescue operations",
+    "is_verified": true
+  },
+  {
+    "category": "Ambulance",
+    "name": "Trauma & Accident (108)",
+    "phone": "108",
+    "city": "All",
+    "description": "Critical care ambulance for accidents",
+    "is_verified": true
+  },
+  {
+    "category": "Ambulance",
+    "name": "Maternity & Infant Ambulance",
+    "phone": "102",
+    "city": "All",
+    "description": "Free service for pregnant women and infants",
+    "is_verified": true
+  },
+  {
+    "category": "Women Safety",
+    "name": "Domestic Abuse Helpline (Abhayam)",
+    "phone": "181",
+    "city": "All",
+    "description": "Counseling and rescue for domestic violence",
+    "is_verified": true
+  },
+  {
+    "category": "Women Safety",
+    "name": "Women in Distress",
+    "phone": "1091",
+    "city": "All",
+    "description": "Harassment in public places",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Childline",
+    "phone": "1098",
+    "city": "All",
+    "description": "Child abuse, labor, runaway children",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Cyber Crime Helpline",
+    "phone": "1930",
+    "city": "All",
+    "description": "Financial fraud and cyber crime reporting",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Elder Line",
+    "phone": "14567",
+    "city": "All",
+    "description": "Senior citizens abuse, rescue, legal help",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Road Accident Emergency",
+    "phone": "1073",
+    "city": "All",
+    "description": "National Highways accident service",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Railway Police (GRP)",
+    "phone": "1512",
+    "city": "All",
+    "description": "Government Railway Police",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Rail Madad",
+    "phone": "139",
+    "city": "All",
+    "description": "Railway complaints and harassment",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Disaster Management (NDMA)",
+    "phone": "1078",
+    "city": "All",
+    "description": "Floods, earthquakes, cyclones",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Missing Persons",
+    "phone": "1094",
+    "city": "All",
+    "description": "Report missing persons",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Delhi Traffic Helpline",
+    "phone": "1095",
+    "city": "Delhi",
+    "description": "Traffic jams and towing info in Delhi NCR",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Delhi Tourist Police",
+    "phone": "8750871111",
+    "city": "Delhi",
+    "description": "Tourist assistance in Delhi",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Delhi Anti-Corruption",
+    "phone": "1031",
+    "city": "Delhi",
+    "description": "Report corruption in Delhi",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Mumbai Traffic Police",
+    "phone": "8454999999",
+    "city": "Mumbai",
+    "description": "WhatsApp-based traffic helpline",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Maharashtra Anti-Corruption",
+    "phone": "1064",
+    "city": "Mumbai",
+    "description": "Report corruption in Maharashtra",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Bangalore Traffic",
+    "phone": "1095",
+    "city": "Bangalore",
+    "description": "Traffic assistance in Bangalore",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "Chennai Traffic",
+    "phone": "103",
+    "city": "Chennai",
+    "description": "Traffic control room Chennai",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Tamil Nadu Anti-Corruption",
+    "phone": "1064",
+    "city": "Chennai",
+    "description": "Report corruption in Tamil Nadu",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Goa Tourist Helpline",
+    "phone": "1364",
+    "city": "Goa",
+    "description": "Assistance for tourists in Goa",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Kerala Highway Alert",
+    "phone": "9846100100",
+    "city": "Kerala",
+    "description": "Highway emergencies in Kerala",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Kerala Anti-Corruption",
+    "phone": "1064",
+    "city": "Kerala",
+    "description": "Report corruption in Kerala",
+    "is_verified": true
+  },
+  {
+    "category": "Other",
+    "name": "Rajasthan Tourist Helpline",
+    "phone": "1036",
+    "city": "Rajasthan",
+    "description": "Tourist assistance in Rajasthan",
+    "is_verified": true
+  },
+  {
+    "category": "Police",
+    "name": "UP Highway Patrol",
+    "phone": "1033",
+    "city": "Uttar Pradesh",
+    "description": "Highway emergencies in UP",
+    "is_verified": true
+  }
+]
