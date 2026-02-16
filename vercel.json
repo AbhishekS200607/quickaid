@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "emergency-app/src/server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "emergency-app/src/server.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "emergency-app/public/$1"
+    }
+  ]
+}
